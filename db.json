@@ -2,7 +2,12 @@
   "posts": [
   {
       "id": 1,
-      "title": "hello"
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "zipcode": "92998-3874",
+      "title": "hello",
+    
     }
   ],
   "profile": {
