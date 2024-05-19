@@ -10,9 +10,11 @@
     
     }
   ],
-  "profile": {
+  "profile": [
+    {
     "name": "typicode"
-  },
+  }
+  ],
   "sagar": {
     "name": "sagar Bhise"
   }
